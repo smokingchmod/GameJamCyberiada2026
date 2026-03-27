@@ -1,0 +1,44 @@
+{
+  "hiding_spots": [
+    {
+      "spot_id": "sala_tronowa_kolumna_1",
+      "collider_type": "BoxCollider",
+      "is_active": true,
+      "hides_from_npc": [
+        "Rycerz",
+        "Kucharz",
+        "Błazen"
+      ]
+    },
+    {
+      "spot_id": "sala_tronowa_kolumna_2",
+      "collider_type": "BoxCollider",
+      "is_active": true,
+      "hides_from_npc": [
+        "Rycerz",
+        "Kucharz",
+        "Błazen"
+      ]
+    },
+    {
+      "spot_id": "kuchnia_blat",
+      "collider_type": "BoxCollider",
+      "is_active": true,
+      "hides_from_npc": [
+        "Król"
+      ]
+    }
+  ],
+  "visibility_states": {
+    "hidden": {
+      "is_detectable": false,
+      "visual_feedback": "darker_sprite",
+      "opacity": 0.6
+    },
+    "exposed": {
+      "is_detectable": true,
+      "visual_feedback": "normal_sprite",
+      "opacity": 1.0
+    }
+  }
+}
