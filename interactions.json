@@ -1,0 +1,25 @@
+{
+  "interactions": [
+    {
+      "character": "Kucharz",
+      "item_in_hand": "Ser",
+      "target_object": "Czerwony Dywan",
+      "action_result": "spawn_szczur",
+      "fail_text": ""
+    },
+    {
+      "character": "Rycerz",
+      "item_in_hand": "Ser",
+      "target_object": "Czerwony Dywan",
+      "action_result": "none",
+      "fail_text": "Zgodnie z paragrafem 2I, beztrosko leżący nabiał grozi rozprzestrzenieniu się epidemii nietolerancji laktozy."
+    },
+    {
+      "character": "Kucharz",
+      "item_in_hand": "Dzban_Wina",
+      "target_object": "Roslina",
+      "action_result": "change_color_red",
+      "fail_text": ""
+    }
+  ]
+}
