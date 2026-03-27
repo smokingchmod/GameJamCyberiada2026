@@ -1,0 +1,16 @@
+{
+  "achievements": [
+    {
+      "id": "achievement_kac",
+      "name": "Królewski Kac",
+      "description": "Zdałeś sobie sprawę, że Twoje ciało to teraz problem kogoś innego.",
+      "is_hidden": false
+    },
+    {
+      "id": "achievement_sanepid",
+      "name": "Średniowieczny Sanepid",
+      "description": "Zgodnie z paragrafem 4B, kontakt z leżącym nabiałem grozi utratą honoru.",
+      "is_hidden": false
+    }
+  ]
+}
