@@ -1,0 +1,20 @@
+{
+  "characters": [
+    {
+      "id": "rycerz",
+      "name": "Rycerz",
+      "color_hex": "#00FFFF", 
+      "walk_speed": 2.5,
+      "can_open_doors": true,
+      "can_go_under_carpet": false
+    },
+    {
+      "id": "szczur",
+      "name": "Szczur",
+      "color_hex": "#808080",
+      "walk_speed": 5.0,
+      "can_open_doors": false,
+      "can_go_under_carpet": true
+    }
+  ]
+}
